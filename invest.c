@@ -1,3 +1,6 @@
+/**
+Author: Nathan Agbomedarho
+*/
 #include<stdio.h>
 int main()
 {
