@@ -1,6 +1,10 @@
-/**
-Author: Nathan Agbomedarho
-*/
+/*******************************************************************************
+* 
+* Purpose: Assignment #2 solution
+*
+* Author: Nathan Agbomedarho
+*
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
